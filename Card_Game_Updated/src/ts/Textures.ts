@@ -1,3 +1,4 @@
+
 import {
   Texture, Resource, ILoaderResource,
 } from 'pixi.js';

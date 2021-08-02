@@ -1,3 +1,4 @@
+
 import {
   Application, Container, BitmapText,
 } from 'pixi.js';

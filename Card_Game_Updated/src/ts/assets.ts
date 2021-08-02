@@ -1,3 +1,5 @@
+
+
 export type Assets = {
   baseUrl: string;
   images:{ key:string, url:string }[];
